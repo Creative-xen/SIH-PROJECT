@@ -4,63 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LoRa-ESP32 Sensor Monitoring Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background: #0078d4;
-            color: white;
-            padding: 1rem 2rem;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5rem;
-        }
-        section {
-            padding: 2rem;
-            margin: 2rem auto;
-            max-width: 900px;
-            background: white;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        h2 {
-            color: #0078d4;
-            margin-bottom: 1rem;
-        }
-        p {
-            margin-bottom: 1rem;
-        }
-        img {
-            display: block;
-            max-width: 100%;
-            margin: 1rem auto;
-            border-radius: 8px;
-            border: 1px solid #ddd;
-        }
-        ul {
-            margin: 1rem 0;
-            padding-left: 1.5rem;
-        }
-        ul li {
-            margin-bottom: 0.5rem;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            margin-top: 2rem;
-            background: #0078d4;
-            color: white;
-        }
-    </style>
+   
 </head>
 <body>
 
