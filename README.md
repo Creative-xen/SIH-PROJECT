@@ -30,7 +30,7 @@
 <section>
     <h2>Connection Diagram</h2>
     <p>The following diagram illustrates the connection setup for the LoRa receiver and ESP32:</p>
-    <img src="connection-diagram.png" alt="Connection Diagram for LoRa and ESP32">
+    <img src="connection-diagram.png" alt="Connection Diagram for LoRa and ESP32">  updating soon
 </section>
 
 <section>
